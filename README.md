@@ -1,6 +1,6 @@
 # Bikes-Sales-Project-Unguided
 
-# Buainess targets:
+# Business targets:
 
 Profitability analysis
 
